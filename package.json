@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/JanaiKasle/HongKong_Zoning#readme",
   "devDependencies": {
-    "eslint": "^7.29.0",
+    "eslint": "^9.19.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-node": "^11.1.0",
